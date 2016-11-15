@@ -6,15 +6,23 @@ namespace GitExamples
     {
         public static int Main(string[] args)
         {
-            Console.WriteLine("Andrysek Libor");
-            Console.WriteLine("Biza Martin");
-            Console.WriteLine("Bulicka Michal");
-            Console.WriteLine("Cacek Filip");
-            Console.WriteLine("Hercka Lubos");
-            Console.WriteLine("Chromik Daniel");
-            Console.WriteLine("Novak Zdenek");
-            Console.WriteLine("Prouza Jakub");
-            Console.WriteLine("Sarik Milan");
+            string[] persons = new string[] {
+                "Andrysek Libor",
+                "Biza Martin",
+                "Bulicka Michal",
+                "Cacek Filip",
+                "Hercka Lubos",
+                "Chromik Daniel",
+                "Novak Zdenek",
+                "Prouza Jakub",
+                "Sarik Milan"
+            };
+
+            for(byte i = 0; i < persons.Length; i++)
+            {
+                Conosle.WriteLine(persons[i]);
+            }
+
             return 0;
         }
     }
