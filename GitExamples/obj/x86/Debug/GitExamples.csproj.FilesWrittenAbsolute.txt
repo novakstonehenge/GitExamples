@@ -1,5 +1,0 @@
-/Users/zdeneknovak/Projects/stonehenge-games/GitExamples/GitExamples/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/Users/zdeneknovak/Projects/stonehenge-games/GitExamples/GitExamples/bin/Debug/GitExamples.exe.mdb
-/Users/zdeneknovak/Projects/stonehenge-games/GitExamples/GitExamples/bin/Debug/GitExamples.exe
-/Users/zdeneknovak/Projects/stonehenge-games/GitExamples/GitExamples/obj/x86/Debug/GitExamples.exe
-/Users/zdeneknovak/Projects/stonehenge-games/GitExamples/GitExamples/obj/x86/Debug/GitExamples.exe.mdb
