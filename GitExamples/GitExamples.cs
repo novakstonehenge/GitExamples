@@ -13,7 +13,9 @@ namespace GitExamples
                 new Person("Novak Zdenek"),
                 new Person("Hercka Lubos"),
                 new Person("Biza Martin"),
-                new Person("Bulicka Michal")
+                new Person("Bulicka Michal"),
+                new Person("Prouza Jakub"),
+                new Person("Sarik Milan")
             };
 
             for(byte i = 0; i < persons.Length; i++)
