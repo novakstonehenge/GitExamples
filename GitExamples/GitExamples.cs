@@ -7,6 +7,7 @@ namespace GitExamples
         public static int Main(string[] args)
         {
             string[] peoples = new string[] {
+                "Andrysek Libor",
                 "Biza Martin",
                 "Bulicka Michal",
                 "Cacek Filip",
