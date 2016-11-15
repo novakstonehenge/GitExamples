@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{AE9D8631-068C-4DC3-920E-D7EF915FABDA}|Default">
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="GitExamples/Main.cs">
+    <Files>
+      <File FileName="GitExamples/Main.cs" Line="7" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.ItemProperties.GitExamples PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
