@@ -13,7 +13,9 @@ namespace GitExamples
                 "Cacek Filip",
                 "Chromik Daniel",
                 "Hercka Lubos",
-                "Novak Zdenek"
+                "Novak Zdenek",
+                "Prouza Jakub",
+                "Sarik Milan"
             };
 
             for(byte i = 0; i < peoples.Length; i++)
