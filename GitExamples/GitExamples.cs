@@ -15,7 +15,8 @@ namespace GitExamples
                 "Chromik Daniel",
                 "Novak Zdenek",
                 "Prouza Jakub",
-                "Sarik Milan"
+                "Sarik Milan",
+                "Soller Michal"
             };
 
             for(byte i = 0; i < persons.Length; i++)
