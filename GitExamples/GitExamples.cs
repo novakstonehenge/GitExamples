@@ -6,6 +6,20 @@ namespace GitExamples
     {
         public static int Main(string[] args)
         {
+            string[] peoples = new string[] {
+                "Biza Martin",
+                "Bulicka Michal",
+                "Cacek Filip",
+                "Chromik Daniel",
+                "Hercka Lubos",
+                "Novak Zdenek"
+            };
+
+            for(byte i = 0; i < peoples.Length; i++)
+            {
+                Console.WriteLine(peoples[i]);
+            }
+
             return 0;
         }
     }
