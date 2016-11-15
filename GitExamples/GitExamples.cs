@@ -14,6 +14,7 @@ namespace GitExamples
             Console.WriteLine("Chromik Daniel");
             Console.WriteLine("Novak Zdenek");
             Console.WriteLine("Prouza Jakub");
+            Console.WriteLine("Sarik Milan");
             return 0;
         }
     }
