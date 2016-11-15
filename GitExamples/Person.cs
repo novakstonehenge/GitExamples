@@ -11,7 +11,7 @@ namespace GitExamples
 
         public override string ToString()
         {
-            return this.name;
+            return "test: " + this.name;
         }
     }
 }
